@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoneEditableEditText</string>
+    <string name="string_pattern">String Pattern</string>
+    <string name="string_text">String</string>
+    <string name="match">Match</string>
+    <string name="header_text">Header Text</string>
+    <string name="string_pattern_description">String pattern description</string>
+</resources>
